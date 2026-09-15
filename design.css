@@ -48,7 +48,18 @@ button{
     border-radius: 5px;
     
 }
-
+.two-photos{
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.two-photos img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
 
 
 
